@@ -1,0 +1,37 @@
+############################
+### SEPTEMBER UPDATES
+###       FOR 
+### @CRAZYCLOUDNETWORKS
+############################
+
+- Implemented 6to4 IPv6
+- Enforced IPv6 DNS server settings
+- Enhanced network via VLANs
+- Seperated VLANs for device isolation
+- IP100 VLAN Blocked to connected to IP86
+- Blocked all VLANs to connect to Home/Smart devices except IP86
+- Blocked all VLANs for torrent and p2p use
+- Blocked connecting clients to access Media Server
+- Enforced firewall rules
+- Added few rate limit profiles for limiting bandwidth per user designated plan
+- Implemented DDNS for continuous routing
+- Added custom IPv4 DNS server settings for both Wifi network
+- Blocked Netflix app
+- Block domains known to distribute malware, launch phishing attacks and host command-and-control servers using a blend of the most reputable threat intelligence feeds 
+all updated in real-time.
+- Google Safe Browsing
+- Cryptojacking Protection
+- IDN Homograph Attacks Protection
+- Typosquatting Protection
+- Domain Generation Algorithms (DGAs) Protection
+- Block Newly Registered Domains (NRDs)
+- Block Dynamic DNS Hostnames
+- Block Child Sexual Abuse Material
+- Added a lot of host adblocks
+- Block Disguised Third-Party Trackers
+- Prevent or hinder the use of methods that can help bypass NextDNS filtering on the network. This includes VPNs, proxies, Tor-related software and encrypted DNS providers.
+- Blocked all Netflix domains and subdomains for strict NO-ACCESS
+- Blocked several websites
+- Added custom blocked message webpage for blocked web contents
+- Anonymized EDNS Client Subnet
+- Cache Boost
